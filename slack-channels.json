@@ -1,0 +1,439 @@
+{
+    "ok": true,
+    "channels": [
+        {
+            "id": "C04QAR7LBSA",
+            "name": "random",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1676964983,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "random",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "context_team_id": "T04R74C8196",
+            "updated": 1681180900423,
+            "parent_conversation": null,
+            "creator": "U04QAR7K1TQ",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T04R74C8196"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "This channel is for... well, everything else. It’s a place for team jokes, spur-of-the-moment ideas, and funny GIFs. Go wild!",
+                "creator": "U04QAR7K1TQ",
+                "last_set": 1676964983
+            },
+            "previous_names": [],
+            "num_members": 24
+        },
+        {
+            "id": "C04QHDDU41G",
+            "name": "general",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1676964983,
+            "is_archived": false,
+            "is_general": true,
+            "unlinked": 0,
+            "name_normalized": "general",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "context_team_id": "T04R74C8196",
+            "updated": 1681180900434,
+            "parent_conversation": null,
+            "creator": "U04QAR7K1TQ",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T04R74C8196"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "This is the one channel that will always include everyone. It’s a great spot for announcements and team-wide conversations.",
+                "creator": "U04QAR7K1TQ",
+                "last_set": 1676964983
+            },
+            "previous_names": [],
+            "num_members": 125
+        },
+        {
+            "id": "C04QHGDA5U3",
+            "name": "full-stack-web-development",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1676968035,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "full-stack-web-development",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "context_team_id": "T04R74C8196",
+            "updated": 1682413425373,
+            "parent_conversation": null,
+            "creator": "U04QAR7K1TQ",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T04R74C8196"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "This channel is for everything #web-development-uj-2023. Hold meetings, share docs, and make decisions together with your team.",
+                "creator": "U04QAR7K1TQ",
+                "last_set": 1676968035
+            },
+            "previous_names": [
+                "web-development-uj-2023"
+            ],
+            "num_members": 71
+        },
+        {
+            "id": "C04QW2TMK33",
+            "name": "work-readiness-program",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1676965020,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "work-readiness-program",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "context_team_id": "T04R74C8196",
+            "updated": 1681180900456,
+            "parent_conversation": null,
+            "creator": "U04QAR7K1TQ",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T04R74C8196"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "This channel is for everything #work-readiness-program. Hold meetings, share docs, and make decisions together with your team.",
+                "creator": "U04QAR7K1TQ",
+                "last_set": 1676965020
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C04RCQ2D97D",
+            "name": "freecodecamp",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1677484635,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "freecodecamp",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "context_team_id": "T04R74C8196",
+            "updated": 1677485009056,
+            "parent_conversation": null,
+            "creator": "U04RGL5QNV7",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T04R74C8196"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "All issues encountered whilst working on the 3 courses on FCC should be asked in this channel.\n\nN.B. Do not share any code/answers with one another and do not share images of your code unless requested so by a mentor. Assist by guiding!",
+                "creator": "U04RGL5QNV7",
+                "last_set": 1677485009
+            },
+            "previous_names": [],
+            "num_members": 106
+        },
+        {
+            "id": "C04S2LW4YPJ",
+            "name": "bootcamp",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1677485668,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "bootcamp",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "context_team_id": "T04R74C8196",
+            "updated": 1677485708099,
+            "parent_conversation": null,
+            "creator": "U04RGL5QNV7",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T04R74C8196"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "All questions or technical issues regarding the Bootcamp should be asked in this channel.\n\nNO sharing of code or answers is allowed!\n\nHelp one another by guiding to the correct answer instead.",
+                "creator": "U04RGL5QNV7",
+                "last_set": 1677485708
+            },
+            "previous_names": [],
+            "num_members": 66
+        },
+        {
+            "id": "C04TAN9MDC3",
+            "name": "4ir-bootcamp",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1678433432,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "4ir-bootcamp",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "context_team_id": "T04R74C8196",
+            "updated": 1678433432172,
+            "parent_conversation": null,
+            "creator": "U04QARGUQMC",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T04R74C8196"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 68
+        },
+        {
+            "id": "C052T8F7APJ",
+            "name": "agile-rapid-skills-acquisition",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1680777241,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "agile-rapid-skills-acquisition",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "context_team_id": "T04R74C8196",
+            "updated": 1680777241366,
+            "parent_conversation": null,
+            "creator": "U04RGL5QNV7",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T04R74C8196"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 61
+        },
+        {
+            "id": "C059N03MS1M",
+            "name": "queue-questions",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1685449880,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "queue-questions",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "context_team_id": "T04R74C8196",
+            "updated": 1685449880635,
+            "parent_conversation": null,
+            "creator": "U04V576F77H",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T04R74C8196"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 5
+        },
+        {
+            "id": "C05HPRMQRFS",
+            "name": "engagement-tracker-test",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1689293434,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "engagement-tracker-test",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "context_team_id": "T04R74C8196",
+            "updated": 1689293477594,
+            "parent_conversation": null,
+            "creator": "U04RGL5EV89",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T04R74C8196"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": true,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "properties": {
+                "canvas": {
+                    "file_id": "F05GTEW1678",
+                    "is_empty": false,
+                    "quip_thread_id": "bfR9AAc7w70"
+                }
+            },
+            "previous_names": [],
+            "num_members": 1
+        }
+    ],
+    "response_metadata": {
+        "next_cursor": "",
+        "scopes": [
+            "identify",
+            "channels:history",
+            "groups:history",
+            "im:history",
+            "mpim:history",
+            "channels:read",
+            "groups:read",
+            "im:read",
+            "mpim:read",
+            "reactions:read",
+            "users:read",
+            "chat:write",
+            "links:write"
+        ],
+        "acceptedScopes": [
+            "channels:read",
+            "groups:read",
+            "mpim:read",
+            "im:read",
+            "read"
+        ]
+    }
+}
