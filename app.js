@@ -3,7 +3,7 @@ const { App } = require('@slack/bolt');
 const fs = require('fs');
 const { registerListeners } = require('./listeners');
 const { checkInScheduler } = require('./helpers/check-in-scheduler');
-const { db } = require('./db');
+// const { db } = require('./db');
 
 
 config();
