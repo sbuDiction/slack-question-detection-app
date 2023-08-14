@@ -3,10 +3,7 @@ const { savePostedMessage } = require('../../helpers/save-posted-message');
 const appMessageListenerCallback = async ({ message, client }) => {
     try {
         const { user, channel, channel_type, text } = message;
-        // const user = 'U05KHRR4YJU';
-        // console.log("MESSAGE:", message);
         const appChannelId = 'D05JUSFNA1Z';
-        // savePostedMessage(message);
         if (channel_type === 'im')
             if (channel === appChannelId) {
                 await client.chat.postMessage({
